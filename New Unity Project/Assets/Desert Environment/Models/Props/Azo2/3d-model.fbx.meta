@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: 063e36ba84553ab418e9e97a5950b3e6
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 2D gayfeather shrub_001
+    100002: 2D semi realistic pine3 tree_001
+    100004: 2D semi realistic pine3 tree_002
+    100006: 2D sketch grass_001
+    100008: 2D sketch grass_003
+    100010: 2D sketch grass_005
+    100012: 2D sketch grass_007
+    100014: //RootNode
+    100016: Component#14_001
+    100018: Component#14_002
+    100020: Component#14_003
+    100022: Component#15_001
+    100024: Component#15_003
+    100026: Component#15_005
+    100028: Component#2_001
+    100030: Component#2_002
+    100032: Component#2_003
+    100034: Component#2_004
+    100036: Component#2_005
+    100038: Component#2_006
+    100040: Component#2_007
+    100042: Component#2_008
+    100044: Component#2_009
+    100046: Component#2_010
+    100048: Component#2_011
+    100050: Component#2_012
+    100052: Component#2_013
+    100054: Component#2_014
+    100056: Component#3_001
+    100058: Component#3_002
+    100060: Component#4_001
+    100062: Component#4_002
+    100064: Component#4_003
+    100066: Component#4_004
+    100068: Component#4_005
+    100070: Component#4_006
+    100072: Component#4_007
+    100074: Component#4_008
+    100076: Component#4_009
+    100078: Component#4_010
+    100080: Component#4_011
+    100082: Component#4_012
+    100084: Door_2-6x6-8_Left_Rev#1_001
+    100086: Door_2-6x6-8_Left_Rev_001
+    100088: Door_Glass_Panels_001
+    100090: DoorKnob_001
+    100092: DoorKnob_002
+    100094: DoorKnob_003
+    100096: DoorKnob_004
+    100098: doorknob_half_001
+    100100: doorknob_half_003
+    100102: Doorknob_Lever_001
+    100104: FlushDoor30_001
+    100106: FlushDoor30_002
+    100108: gatehouse_001
+    100110: Group_001
+    100112: Group_003
+    100114: Group_004
+    100116: Group_006
+    100118: Group_008
+    100120: Group_009
+    100122: Group_010
+    100124: Group_011
+    100126: Group_014
+    100128: Group_017
+    100130: Group_018
+    100132: Group_022
+    100134: Group_023
+    100136: Group_027
+    100138: keep stairs-wndo#1_001
+    100140: keep stairs-wndo#2_001
+    100142: keep stairs-wndo_001
+    100144: keep stairs_001
+    100146: Olympic class window_001
+    100148: Olympic class window_003
+    100150: Olympic class window_005
+    100152: Window_Awning_Mullions_27.5x22_001
+    100154: Window_Awning_Mullions_27.5x22_002
+    100156: Window_Awning_Mullions_27.5x22_003
+    100158: Window_Awning_Mullions_27.5x22_004
+    100160: Window_Casement_Mullions_24x32_001
+    100162: Window_Casement_Mullions_24x32_002
+    100164: Window_Casement_Wood_17x36_001
+    100166: Window_Casement_Wood_17x36_002
+    100168: Window_Casement_Wood_17x36_003
+    100170: Window_Doublehung_23x46_001
+    100172: Window_Doublehung_23x46_002
+    100174: Window_Doublehung_23x46_003
+    100176: Window_Doublehung_23x46_004
+    100178: Window_Doublehung_23x46_005
+    100180: Window_Doublehung_23x46_006
+    100182: Window_Doublehung_Mullions_35x46_001
+    100184: Window_Doublehung_Mullions_35x46_002
+    100186: Window_Doublehung_Mullions_35x46_003
+    100188: Window_Doublehung_Mullions_35x46_004
+    100190: Window_Doublehung_Mullions_35x46_005
+    100192: Window_Doublehung_Mullions_35x46_006
+    100194: Window_Doublehung_Mullions_35x46_007
+    100196: Window_Slider_Mullions_39.75x35_Open_001
+    400000: 2D gayfeather shrub_001
+    400002: 2D semi realistic pine3 tree_001
+    400004: 2D semi realistic pine3 tree_002
+    400006: 2D sketch grass_001
+    400008: 2D sketch grass_003
+    400010: 2D sketch grass_005
+    400012: 2D sketch grass_007
+    400014: //RootNode
+    400016: Component#14_001
+    400018: Component#14_002
+    400020: Component#14_003
+    400022: Component#15_001
+    400024: Component#15_003
+    400026: Component#15_005
+    400028: Component#2_001
+    400030: Component#2_002
+    400032: Component#2_003
+    400034: Component#2_004
+    400036: Component#2_005
+    400038: Component#2_006
+    400040: Component#2_007
+    400042: Component#2_008
+    400044: Component#2_009
+    400046: Component#2_010
+    400048: Component#2_011
+    400050: Component#2_012
+    400052: Component#2_013
+    400054: Component#2_014
+    400056: Component#3_001
+    400058: Component#3_002
+    400060: Component#4_001
+    400062: Component#4_002
+    400064: Component#4_003
+    400066: Component#4_004
+    400068: Component#4_005
+    400070: Component#4_006
+    400072: Component#4_007
+    400074: Component#4_008
+    400076: Component#4_009
+    400078: Component#4_010
+    400080: Component#4_011
+    400082: Component#4_012
+    400084: Door_2-6x6-8_Left_Rev#1_001
+    400086: Door_2-6x6-8_Left_Rev_001
+    400088: Door_Glass_Panels_001
+    400090: DoorKnob_001
+    400092: DoorKnob_002
+    400094: DoorKnob_003
+    400096: DoorKnob_004
+    400098: doorknob_half_001
+    400100: doorknob_half_003
+    400102: Doorknob_Lever_001
+    400104: FlushDoor30_001
+    400106: FlushDoor30_002
+    400108: gatehouse_001
+    400110: Group_001
+    400112: Group_003
+    400114: Group_004
+    400116: Group_006
+    400118: Group_008
+    400120: Group_009
+    400122: Group_010
+    400124: Group_011
+    400126: Group_014
+    400128: Group_017
+    400130: Group_018
+    400132: Group_022
+    400134: Group_023
+    400136: Group_027
+    400138: keep stairs-wndo#1_001
+    400140: keep stairs-wndo#2_001
+    400142: keep stairs-wndo_001
+    400144: keep stairs_001
+    400146: Olympic class window_001
+    400148: Olympic class window_003
+    400150: Olympic class window_005
+    400152: Window_Awning_Mullions_27.5x22_001
+    400154: Window_Awning_Mullions_27.5x22_002
+    400156: Window_Awning_Mullions_27.5x22_003
+    400158: Window_Awning_Mullions_27.5x22_004
+    400160: Window_Casement_Mullions_24x32_001
+    400162: Window_Casement_Mullions_24x32_002
+    400164: Window_Casement_Wood_17x36_001
+    400166: Window_Casement_Wood_17x36_002
+    400168: Window_Casement_Wood_17x36_003
+    400170: Window_Doublehung_23x46_001
+    400172: Window_Doublehung_23x46_002
+    400174: Window_Doublehung_23x46_003
+    400176: Window_Doublehung_23x46_004
+    400178: Window_Doublehung_23x46_005
+    400180: Window_Doublehung_23x46_006
+    400182: Window_Doublehung_Mullions_35x46_001
+    400184: Window_Doublehung_Mullions_35x46_002
+    400186: Window_Doublehung_Mullions_35x46_003
+    400188: Window_Doublehung_Mullions_35x46_004
+    400190: Window_Doublehung_Mullions_35x46_005
+    400192: Window_Doublehung_Mullions_35x46_006
+    400194: Window_Doublehung_Mullions_35x46_007
+    400196: Window_Slider_Mullions_39.75x35_Open_001
+    2100000: _DarkGreen_1
+    2100002: _HotPink_
+    2100004: _Green_
+    2100006: _DarkGreen_
+    2100008: pine
+    2100010: _Charcoal_
+    2100012: Wood_ Floor
+    2100014: _Gray Glass_
+    2100016: concrete2
+    2100018: _Ivory_
+    2100020: Wood_Cherry_Original
+    2100022: 0036_BurlyWood
+    2100024: 0131_Silver
+    2100026: concrete10
+    2100028: stone1
+    2100030: Stone_Granite_Coffee
+    2100032: BrickOldSharp0184_1_S[1]
+    2100034: wood2
+    2100036: stone3
+    2100038: Cladding_Stucco_Brown
+    2100040: Material7
+    2100042: grass2
+    2100044: Material8
+    2100046: Groundcover_RiverRock_4inch
+    2100048: _Dark Brown_
+    2100050: Stone_Coursed_Rough
+    2100052: roof1
+    2100054: Stone_Rusticated_Ashlar
+    2100056: Stone_Pavers_Walk
+    2100058: 0032_Moccasin
+    2100060: Fencing_Weathered
+    2100062: Roofing_Shingles_Wood
+    2300000: 2D gayfeather shrub_001
+    2300002: 2D semi realistic pine3 tree_001
+    2300004: 2D semi realistic pine3 tree_002
+    2300006: 2D sketch grass_001
+    2300008: 2D sketch grass_003
+    2300010: 2D sketch grass_005
+    2300012: 2D sketch grass_007
+    2300014: Component#14_001
+    2300016: Component#14_002
+    2300018: Component#14_003
+    2300020: Component#15_001
+    2300022: Component#15_003
+    2300024: Component#15_005
+    2300026: Component#2_001
+    2300028: Component#2_002
+    2300030: Component#2_003
+    2300032: Component#2_004
+    2300034: Component#2_005
+    2300036: Component#2_006
+    2300038: Component#2_007
+    2300040: Component#2_008
+    2300042: Component#2_009
+    2300044: Component#2_010
+    2300046: Component#2_011
+    2300048: Component#2_012
+    2300050: Component#2_013
+    2300052: Component#2_014
+    2300054: Component#3_001
+    2300056: Component#3_002
+    2300058: Component#4_001
+    2300060: Component#4_002
+    2300062: Component#4_003
+    2300064: Component#4_004
+    2300066: Component#4_005
+    2300068: Component#4_006
+    2300070: Component#4_007
+    2300072: Component#4_008
+    2300074: Component#4_009
+    2300076: Component#4_010
+    2300078: Component#4_011
+    2300080: Component#4_012
+    2300082: Door_2-6x6-8_Left_Rev#1_001
+    2300084: Door_2-6x6-8_Left_Rev_001
+    2300086: Door_Glass_Panels_001
+    2300088: DoorKnob_001
+    2300090: DoorKnob_002
+    2300092: DoorKnob_003
+    2300094: DoorKnob_004
+    2300096: doorknob_half_001
+    2300098: doorknob_half_003
+    2300100: Doorknob_Lever_001
+    2300102: FlushDoor30_001
+    2300104: FlushDoor30_002
+    2300106: gatehouse_001
+    2300108: Group_001
+    2300110: Group_003
+    2300112: Group_004
+    2300114: Group_006
+    2300116: Group_008
+    2300118: Group_009
+    2300120: Group_010
+    2300122: Group_011
+    2300124: Group_014
+    2300126: Group_017
+    2300128: Group_018
+    2300130: Group_022
+    2300132: Group_023
+    2300134: Group_027
+    2300136: keep stairs-wndo#1_001
+    2300138: keep stairs-wndo#2_001
+    2300140: keep stairs-wndo_001
+    2300142: keep stairs_001
+    2300144: Olympic class window_001
+    2300146: Olympic class window_003
+    2300148: Olympic class window_005
+    2300150: Window_Awning_Mullions_27.5x22_001
+    2300152: Window_Awning_Mullions_27.5x22_002
+    2300154: Window_Awning_Mullions_27.5x22_003
+    2300156: Window_Awning_Mullions_27.5x22_004
+    2300158: Window_Casement_Mullions_24x32_001
+    2300160: Window_Casement_Mullions_24x32_002
+    2300162: Window_Casement_Wood_17x36_001
+    2300164: Window_Casement_Wood_17x36_002
+    2300166: Window_Casement_Wood_17x36_003
+    2300168: Window_Doublehung_23x46_001
+    2300170: Window_Doublehung_23x46_002
+    2300172: Window_Doublehung_23x46_003
+    2300174: Window_Doublehung_23x46_004
+    2300176: Window_Doublehung_23x46_005
+    2300178: Window_Doublehung_23x46_006
+    2300180: Window_Doublehung_Mullions_35x46_001
+    2300182: Window_Doublehung_Mullions_35x46_002
+    2300184: Window_Doublehung_Mullions_35x46_003
+    2300186: Window_Doublehung_Mullions_35x46_004
+    2300188: Window_Doublehung_Mullions_35x46_005
+    2300190: Window_Doublehung_Mullions_35x46_006
+    2300192: Window_Doublehung_Mullions_35x46_007
+    2300194: Window_Slider_Mullions_39.75x35_Open_001
+    3300000: 2D gayfeather shrub_001
+    3300002: 2D semi realistic pine3 tree_001
+    3300004: 2D semi realistic pine3 tree_002
+    3300006: 2D sketch grass_001
+    3300008: 2D sketch grass_003
+    3300010: 2D sketch grass_005
+    3300012: 2D sketch grass_007
+    3300014: Component#14_001
+    3300016: Component#14_002
+    3300018: Component#14_003
+    3300020: Component#15_001
+    3300022: Component#15_003
+    3300024: Component#15_005
+    3300026: Component#2_001
+    3300028: Component#2_002
+    3300030: Component#2_003
+    3300032: Component#2_004
+    3300034: Component#2_005
+    3300036: Component#2_006
+    3300038: Component#2_007
+    3300040: Component#2_008
+    3300042: Component#2_009
+    3300044: Component#2_010
+    3300046: Component#2_011
+    3300048: Component#2_012
+    3300050: Component#2_013
+    3300052: Component#2_014
+    3300054: Component#3_001
+    3300056: Component#3_002
+    3300058: Component#4_001
+    3300060: Component#4_002
+    3300062: Component#4_003
+    3300064: Component#4_004
+    3300066: Component#4_005
+    3300068: Component#4_006
+    3300070: Component#4_007
+    3300072: Component#4_008
+    3300074: Component#4_009
+    3300076: Component#4_010
+    3300078: Component#4_011
+    3300080: Component#4_012
+    3300082: Door_2-6x6-8_Left_Rev#1_001
+    3300084: Door_2-6x6-8_Left_Rev_001
+    3300086: Door_Glass_Panels_001
+    3300088: DoorKnob_001
+    3300090: DoorKnob_002
+    3300092: DoorKnob_003
+    3300094: DoorKnob_004
+    3300096: doorknob_half_001
+    3300098: doorknob_half_003
+    3300100: Doorknob_Lever_001
+    3300102: FlushDoor30_001
+    3300104: FlushDoor30_002
+    3300106: gatehouse_001
+    3300108: Group_001
+    3300110: Group_003
+    3300112: Group_004
+    3300114: Group_006
+    3300116: Group_008
+    3300118: Group_009
+    3300120: Group_010
+    3300122: Group_011
+    3300124: Group_014
+    3300126: Group_017
+    3300128: Group_018
+    3300130: Group_022
+    3300132: Group_023
+    3300134: Group_027
+    3300136: keep stairs-wndo#1_001
+    3300138: keep stairs-wndo#2_001
+    3300140: keep stairs-wndo_001
+    3300142: keep stairs_001
+    3300144: Olympic class window_001
+    3300146: Olympic class window_003
+    3300148: Olympic class window_005
+    3300150: Window_Awning_Mullions_27.5x22_001
+    3300152: Window_Awning_Mullions_27.5x22_002
+    3300154: Window_Awning_Mullions_27.5x22_003
+    3300156: Window_Awning_Mullions_27.5x22_004
+    3300158: Window_Casement_Mullions_24x32_001
+    3300160: Window_Casement_Mullions_24x32_002
+    3300162: Window_Casement_Wood_17x36_001
+    3300164: Window_Casement_Wood_17x36_002
+    3300166: Window_Casement_Wood_17x36_003
+    3300168: Window_Doublehung_23x46_001
+    3300170: Window_Doublehung_23x46_002
+    3300172: Window_Doublehung_23x46_003
+    3300174: Window_Doublehung_23x46_004
+    3300176: Window_Doublehung_23x46_005
+    3300178: Window_Doublehung_23x46_006
+    3300180: Window_Doublehung_Mullions_35x46_001
+    3300182: Window_Doublehung_Mullions_35x46_002
+    3300184: Window_Doublehung_Mullions_35x46_003
+    3300186: Window_Doublehung_Mullions_35x46_004
+    3300188: Window_Doublehung_Mullions_35x46_005
+    3300190: Window_Doublehung_Mullions_35x46_006
+    3300192: Window_Doublehung_Mullions_35x46_007
+    3300194: Window_Slider_Mullions_39.75x35_Open_001
+    4300000: 2D gayfeather shrub_001
+    4300002: 2D sketch grass_007
+    4300004: 2D sketch grass_005
+    4300006: 2D sketch grass_003
+    4300008: 2D sketch grass_001
+    4300010: 2D semi realistic pine3 tree_002
+    4300012: 2D semi realistic pine3 tree_001
+    4300014: Window_Casement_Mullions_24x32_002
+    4300016: Component#3_002
+    4300018: Component#3_001
+    4300020: Window_Slider_Mullions_39.75x35_Open_001
+    4300022: Component#2_014
+    4300024: Component#2_013
+    4300026: Window_Doublehung_Mullions_35x46_007
+    4300028: Group_027
+    4300030: Window_Awning_Mullions_27.5x22_004
+    4300032: keep stairs-wndo_001
+    4300034: Component#14_003
+    4300036: Component#15_005
+    4300038: Olympic class window_005
+    4300040: Component#14_002
+    4300042: Component#15_003
+    4300044: Olympic class window_003
+    4300046: Component#14_001
+    4300048: Component#15_001
+    4300050: Olympic class window_001
+    4300052: Doorknob_Lever_001
+    4300054: doorknob_half_003
+    4300056: doorknob_half_001
+    4300058: Door_Glass_Panels_001
+    4300060: Group_023
+    4300062: Group_022
+    4300064: Window_Awning_Mullions_27.5x22_003
+    4300066: DoorKnob_004
+    4300068: DoorKnob_003
+    4300070: FlushDoor30_002
+    4300072: Door_2-6x6-8_Left_Rev#1_001
+    4300074: Group_018
+    4300076: Window_Casement_Mullions_24x32_001
+    4300078: Component#2_012
+    4300080: Component#2_011
+    4300082: Window_Doublehung_Mullions_35x46_006
+    4300084: Component#2_010
+    4300086: Component#2_009
+    4300088: Window_Doublehung_Mullions_35x46_005
+    4300090: Component#2_008
+    4300092: Component#2_007
+    4300094: Window_Doublehung_Mullions_35x46_004
+    4300096: Component#2_006
+    4300098: Component#2_005
+    4300100: Window_Doublehung_Mullions_35x46_003
+    4300102: Group_017
+    4300104: Window_Awning_Mullions_27.5x22_002
+    4300106: keep stairs-wndo#1_001
+    4300108: Group_014
+    4300110: keep stairs_001
+    4300112: DoorKnob_002
+    4300114: DoorKnob_001
+    4300116: FlushDoor30_001
+    4300118: Door_2-6x6-8_Left_Rev_001
+    4300120: Group_011
+    4300122: Group_010
+    4300124: Window_Casement_Wood_17x36_003
+    4300126: Group_009
+    4300128: Window_Casement_Wood_17x36_002
+    4300130: Group_008
+    4300132: Window_Casement_Wood_17x36_001
+    4300134: gatehouse_001
+    4300136: Group_006
+    4300138: Group_004
+    4300140: Component#4_012
+    4300142: Component#4_011
+    4300144: Window_Doublehung_23x46_006
+    4300146: Component#4_010
+    4300148: Component#4_009
+    4300150: Window_Doublehung_23x46_005
+    4300152: Component#4_008
+    4300154: Component#4_007
+    4300156: Window_Doublehung_23x46_004
+    4300158: Component#4_006
+    4300160: Component#4_005
+    4300162: Window_Doublehung_23x46_003
+    4300164: Component#4_004
+    4300166: Component#4_003
+    4300168: Window_Doublehung_23x46_002
+    4300170: Component#4_002
+    4300172: Component#4_001
+    4300174: Window_Doublehung_23x46_001
+    4300176: Component#2_004
+    4300178: Component#2_003
+    4300180: Window_Doublehung_Mullions_35x46_002
+    4300182: Component#2_002
+    4300184: Component#2_001
+    4300186: Window_Doublehung_Mullions_35x46_001
+    4300188: Group_003
+    4300190: Window_Awning_Mullions_27.5x22_001
+    4300192: keep stairs-wndo#2_001
+    4300194: Group_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

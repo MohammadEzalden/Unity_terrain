@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 9674d886ecb956848853d580cf0da2db
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Layer0_001
+    100004: P_Toilet_001
+    100006: P_Toilet_003
+    100008: Roof_001
+    100010: Second Floor_001
+    400000: //RootNode
+    400002: Layer0_001
+    400004: P_Toilet_001
+    400006: P_Toilet_003
+    400008: Roof_001
+    400010: Second Floor_001
+    2100000: dbl_P_Toilet_001
+    2100002: dbl_P_Toilet_002
+    2100004: dbl_Second Floor_003
+    2100006: dbl_Layer0_009
+    2100008: dbl_Layer0_010
+    2100010: dbl_Layer0_017
+    2100012: dbl_Layer0_012
+    2100014: dbl_Layer0_011
+    2100016: dbl_Roof_001
+    2100018: dbl_Roof_002
+    2100020: dbl_Layer0_002
+    2100022: dbl_Layer0_001
+    2100024: dbl_Layer0_004
+    2100026: dbl_Second Floor_002
+    2100028: dbl_Second Floor_001
+    2100030: dbl_Layer0_003
+    2100032: dbl_Roof_003
+    2100034: dbl_Layer0_006
+    2100036: dbl_Layer0_013
+    2100038: dbl_Layer0_014
+    2100040: dbl_Layer0_007
+    2100042: dbl_Roof_004
+    2100044: dbl_Roof_005
+    2100046: dbl_Layer0_016
+    2100048: dbl_Roof_006
+    2100050: dbl_Roof_007
+    2100052: dbl_Roof_008
+    2100054: dbl_Layer0_008
+    2100056: dbl_Layer0_015
+    2100058: dbl_Second Floor_004
+    2100060: dbl_Layer0_025
+    2100062: dbl_Layer0_030
+    2100064: dbl_Layer0_023
+    2100066: dbl_Layer0_024
+    2100068: dbl_Second Floor_005
+    2100070: dbl_Layer0_028
+    2100072: dbl_Layer0_034
+    2100074: dbl_Layer0_005
+    2100076: dbl_Layer0_018
+    2100078: dbl_Layer0_019
+    2100080: dbl_Layer0_020
+    2100082: dbl_Layer0_021
+    2100084: dbl_Layer0_022
+    2100086: dbl_Layer0_026
+    2100088: dbl_Layer0_027
+    2100090: dbl_Layer0_029
+    2100092: dbl_Layer0_031
+    2100094: dbl_Layer0_032
+    2100096: dbl_Layer0_033
+    2300000: Layer0_001
+    2300002: P_Toilet_001
+    2300004: P_Toilet_003
+    2300006: Roof_001
+    2300008: Second Floor_001
+    3300000: Layer0_001
+    3300002: P_Toilet_001
+    3300004: P_Toilet_003
+    3300006: Roof_001
+    3300008: Second Floor_001
+    4300000: P_Toilet_003
+    4300002: P_Toilet_001
+    4300004: Roof_001
+    4300006: Second Floor_001
+    4300008: Layer0_001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
